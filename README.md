@@ -3,7 +3,7 @@ Deploy VDIs automatically in XenDesktop Catalog
 
 ## Description
 
-This tool allows you to create new VDIs in xendesktop catalog.
+This script allows you to create new VDIs in xendesktop catalog.
 
 ### Prerequisites
 
