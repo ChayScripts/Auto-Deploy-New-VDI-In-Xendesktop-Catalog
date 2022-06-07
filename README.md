@@ -33,7 +33,7 @@ Citrix Admins whose task is to maintain free VDIs in the pool.
 
 ### Authors
 
-* **Chay Scripts** - [ChayScripts](https://github.com/ChayScripts)
+* **Chay** - [ChayScripts](https://github.com/ChayScripts)
 
 ### Contributing
 
